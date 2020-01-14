@@ -1,7 +1,6 @@
 ---
 title: "Acerca de"
 date: 2020-01-12T23:31:12-03:00
-draft: true
 ---
 
 Mi nombre es Pablo Sepúlveda y me llaman psep en algunas partes (?). Activista de la libertad de software (en retiro momentaneo) y eterno estudiante. Me dedico a la arquitectura de soluciones.

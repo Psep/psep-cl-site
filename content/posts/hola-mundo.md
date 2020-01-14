@@ -1,7 +1,6 @@
 ---
 title: "Hola Mundo"
 date: 2020-01-13T00:58:15-03:00
-draft: true
 categories: ["Otros", "hugo"]
 tags: ["hugo"]
 weight: 10
