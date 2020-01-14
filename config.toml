@@ -17,10 +17,9 @@ disqusShortname = "psepcl"
 	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 	highlightjs = true
 	highlightjsstyle = "github"
-	themeColor = "theme-base-0p"	
-	builtwith = "adasdas"
+	themeColor = "theme-base-0p"
 	Commento = true
-	
+
 [params.social]
 	twitter = "psep_cl"
 	github = "psep"
@@ -33,12 +32,11 @@ disqusShortname = "psepcl"
 
 [[menu.main]]
 	name = "Posts"
-	identifier = "posts" 
-	weight = 100 
+	identifier = "posts"
+	weight = 100
 	url = "/posts/"
 [[menu.main]]
 	name = "Acerca de"
 	identifier = "acerca-de"
 	weight = 200
 	url = "/acerca-de/"
-    
