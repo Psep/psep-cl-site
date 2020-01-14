@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/psep
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://psep.cl
+  * I am psep (https://keybase.io/psep) on keybase.
+  * I have a public key with fingerprint 36BB FD5E F553 7D80 13DD  3EDD 252A 494B 4BD4 0145
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ff71f77bf760ab9abe733c4b1ae72816d72aa362f22c2bd21fbec72a5b71e8170a",
+      "fingerprint": "36bbfd5ef5537d8013dd3edd252a494b4bd40145",
+      "host": "keybase.io",
+      "key_id": "252a494b4bd40145",
+      "kid": "0101dd448f8ed32d99b5983632dc18429caa4bffd6a4496c942f5af20cfdb4e335700a",
+      "uid": "6160057320a095aa4f1aac70fa954719",
+      "username": "psep"
+    },
+    "service": {
+      "hostname": "psep.cl",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1578877969,
+  "expire_in": 157680000,
+  "prev": "59aaaf1cc284dec8b576a4172922f12a02bf2ab440eec735e74e182c4ab17c76",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUn9MVVUcf6+emz7ETAx1yZyX2JQR3HPuuffc+1SCVuvlA2mlW8vkeX5dvEn3
+ve67Qm8GCbYlxoimcy3MnP0gYpKtESWETUlr/WGbqNlC1ko2CVfQnM4h6zwWW390
+/jnnfM7n8zmf8z3f9ux7A+FgQeGTsdhw8PHgD9dpoPrBodzdCk3wtBLZrewUs5Oo
+5SLlx3c6XIkoKoCqbWNgY0xtbKiEWoQKrGkMUUAEhiYwOIaEaAa0IWSQcghsKpjE
+dIqBMAFWiVKk2I5bI7yk57i+tNUMSm2uC1vXNcxNFWica4JzqEOCLEQR5UgFSJfC
+HYlURiHDUZISxU5CYnITn433P/y53CrgHCHTNgXXILcsqlumZsglAyaCFiMEUdvm
+BkHIMpiFoK0TG6rM5hQJTdOxOpt716ydAQxV1bEGVaJaupTagBCGVZtYOsLAyhBT
+wnPJi0KykymRVBqKFInUOUxkipp5xX9Oi1mtlCS9hJ9giVoJ7vD9ZCSj8dPJDKle
+0Pi/8jh1XC6rJwV1wks5CVeJAMlkvpPxAzo2TYwtwypSxMtJxxNxx52FDVOVI3ON
+qJOWukUIsQFj0ERcMJNWSQpBAEMLQhtAokJqQ0IRUoX8P00XGAlgQoYIBZhhQ8m8
+6CU3Ic2hDEpqpGnKqXGJv8sTSkO4Jfh5KBAMB/JyV4eM/rvVN59p2JMzUjoy13Lz
+7sn0WyC8YPEcooQWBtqPHt4yODaQ0zGzP/YsynfT5S0b2rrwqa1b8cG3Wn1l2do9
+k9v+vNY2njX09HOsMvvoRGzzhlD7doM3nykrqhpRi3/t+i3d/tTCzktj3cbG21Nr
+V4Xi5mS0Y/qTeX8vejRryccNgxvpK4cub/++8itv5ZZ341f9kgu/u+dvr/6oLa95
+09s/X9p88uEDvZf/eKMnNv3hN7WR/X/dPZ9/ZaxxfijHaUrdd6DjctZZr7/9+Jo6
+vPJ46+Gl6fqfik63nVQXl2c/lO+t6J06knfo3LTzfuTHgVDshcnnW749fWtyuuJr
+fn9fa0nzUjH5Qc/B7u4j+SMtfaXn1jw2em152Zufvn5ncO+x8c9YyfAX0cJND1y8
+3lkfPFbB+s96A9HRQH/T3u+669wrfmn2DeuEm/taY/QMWFS5fBmo70ufuNkZXudV
+rNe7bpXlzl81tGJmKjpRO7GkdLSg5omxO/r4wC+nvixlMz3reGhbVbg1OtyIS96p
+vvjI+rYbhU055WjBe1f3FXS9um+kqle58A8=
+=1AZd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/psep
+
+==================================================================

@@ -1,0 +1,44 @@
+baseURL = "http://psep.cl/"
+languageCode = "es"
+title = "Psep.cl"
+theme = "hyde-hyde"
+
+disqusShortname = "psepcl"
+
+[params]
+	postNavigation = true
+	relatedPosts = true
+	author = "Pablo Sepúlveda P."
+	description = "Si es libre, es bueno."
+	authorimage = "/img/gnu.png"
+	#dateformat = "02/01/2006"
+	copyright = "psep"
+	license = "CC BY-SA 4.0"
+	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+	highlightjs = true
+	highlightjsstyle = "github"
+	themeColor = "theme-base-0p"	
+	builtwith = "adasdas"
+	Commento = true
+	
+[params.social]
+	twitter = "psep_cl"
+	github = "psep"
+	gitlab = "psep"
+	stackoverflow = "3579788/psep"
+	keybase = "psep"
+	linkedin = "pablopsep"
+	email = "psep@protonmail.ch"
+	#gravatar = "psep.pentauc@gmail.com"
+
+[[menu.main]]
+	name = "Posts"
+	identifier = "posts" 
+	weight = 100 
+	url = "/posts/"
+[[menu.main]]
+	name = "Acerca de"
+	identifier = "acerca-de"
+	weight = 200
+	url = "/acerca-de/"
+    
