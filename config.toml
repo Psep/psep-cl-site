@@ -21,6 +21,7 @@ disqusShortname = "psepcl"
 	showBuiltWith = true
 
 [params.meta]
+  author = "Pablo Sepúlveda @psep"
 	description = "Si es libre, es bueno."
 	keywords = "software libre, free software, gnu, java, arquitectura, apache, camel, microservicios, soa, middleware, bpm, jboss, debian, linux, android, firefox, rust, mozilla"
 
