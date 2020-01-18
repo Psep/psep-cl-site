@@ -3,7 +3,7 @@ title: "Acerca de"
 date: 2020-01-12T23:31:12-03:00
 ---
 
-<img src="https://www.gravatar.com/avatar/8857663bc62f50f4de7c2f2296072f31?s=240&d=mp" class="img--circle img-autor element--left"/>
+![psep](https://www.gravatar.com/avatar/8857663bc62f50f4de7c2f2296072f31?s=240&d=mp)
 
 Mi nombre es Pablo Sepúlveda y me llaman psep en algunas partes (?). Activista de la libertad de software (en retiro momentaneo) y eterno estudiante. Me dedico a la arquitectura de soluciones.
 
