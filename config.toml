@@ -11,7 +11,6 @@ disqusShortname = "psepcl"
 	author = "Pablo Sepúlveda P."
 	description = "Si es libre, es bueno."
 	authorimage = "/img/gnu.png"
-	#dateformat = "02/01/2006"
 	copyright = "psep"
 	license = "CC BY-SA 4.0"
 	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
@@ -19,6 +18,7 @@ disqusShortname = "psepcl"
 	highlightjsstyle = "github"
 	themeColor = "theme-base-0p"
 	Commento = true
+	showBuiltWith = true
 
 [params.meta]
 	description = "Si es libre, es bueno."
@@ -32,7 +32,6 @@ disqusShortname = "psepcl"
 	keybase = "psep"
 	linkedin = "pablopsep"
 	email = "psep@protonmail.ch"
-	#gravatar = "psep.pentauc@gmail.com"
 
 [[menu.main]]
 	name = "Posts"
