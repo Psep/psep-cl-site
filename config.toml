@@ -27,8 +27,6 @@ disqusShortname = "psepcl"
 [params.social]
 	twitter = "psep_cl"
 	github = "psep"
-	gitlab = "psep"
-	stackoverflow = "3579788/psep"
 	keybase = "psep"
 	linkedin = "pablopsep"
 	email = "psep@protonmail.ch"
