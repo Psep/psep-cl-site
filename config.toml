@@ -32,6 +32,7 @@ disqusShortname = "psepcl"
 	keybase = "psep"
 	linkedin = "pablopsep"
 	email = "psep@protonmail.ch"
+	lichess = "psep"
 
 [[menu.main]]
 	name = "Posts"
@@ -43,3 +44,19 @@ disqusShortname = "psepcl"
 	identifier = "acerca-de"
 	weight = 200
 	url = "/acerca-de/"
+
+[[menu.planet]]
+	name = "Proyecto GNU"
+	identifier = "gnu project"
+	weight = 200
+	url = "https://gnu.org"
+[[menu.planet]]
+	name = "Mozilla Chile"
+	identifier = "mozilla chile"
+	weight = 200
+	url = "http://mozillachile.cl"
+[[menu.planet]]
+	name = "Apache Camel"
+	identifier = "apache camel"
+	weight = 200
+	url = "https://camel.apache.org/blog/"
